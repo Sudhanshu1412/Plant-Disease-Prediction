@@ -1,4 +1,3 @@
-
 # 🌿 Plant Disease Prediction using CNN
 
 This project aims to build a deep learning model using Convolutional Neural Networks (CNNs) to automatically detect plant diseases from images of leaves. The goal is to aid farmers and agriculturists by providing a fast, reliable tool to identify diseases early and improve crop health through timely interventions.
